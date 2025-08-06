@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>order list</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1c0909;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .container {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .menu, .form-box {
+      background-color: rgb(140, 130, 130);
+      padding: 20px;
+      border-radius:5px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .menu img {
+      width: 100%;
+      border-radius: 10px;
+    }
+
+    .ice-cream {
+      margin-bottom: 10px;
+    }
+
+    .form-box {
+      max-width: 350px;
+    }
+
+    .form-box h2 {
+      text-align: center;
+    }
+
+    .form-box input {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #b88989;
+      border-radius: 5px;
+    }
+
+    .form-box button {
+      background-color: #4e2a79;
+      color: rgb(162, 135, 135);
+      padding: 10px;
+      border: none;
+      width: 100%;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .form-box button:hover {
+      background-color: #1f175e;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="menu">
+      <div class="Ice-cream">
+        <img src="https://gypsyplate.com/wp-content/uploads/2022/05/the-best-milkshake-recipes_02.jpg" alt="Milkshakes">
+        <p><strong>Milkshakes</strong></p>
+      </div>
+      <div class="Ice-cream">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMxisjJHgPawxmPGdSyIBzCiaV3mSCKGFlzQ&s" alt="Banana Split">
+        <p><strong>Banana Split</strong></p>
+      </div>
+    </div>
+
+    <div class="form-box">
+      <h2>ORDER LIST</h2>
+      <img src="https://img.freepik.com/premium-vector/ice-cream-logo-design-illustration_9845-324.jpg" width="50" style="display:block; margin:auto;" alt="Ice cream">
+      <input type="text" id="name" placeholder="Your Name">
+      <input type="text" id="phone" placeholder="Phone Number">
+      <input type="text" id="flavour" placeholder="Ice Cream Name">
+      <input type="number" id="quantity" placeholder="Quantity">
+      <button onclick="showOrder()">ORDER</button>
+    </div>
+  </div>
+
+  <script>
+    function showOrder() {
+      var name = document.getElementById("Name").value;
+      var phone = document.getElementById("Phone").value;
+      var flavour = document.getElementById("Flavour").value;
+      var quantity = document.getElementById("Quantity").value;
+
+      console.log("Name: " + name);
+      console.log("Phone Number: " + phone);
+      console.log("Flavour: " + flavour);
+      console.log("Quantity: " + quantity);
+    }
+  </script>
+
+</body>
+</html>
