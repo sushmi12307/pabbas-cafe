@@ -1,0 +1,65 @@
+<html>
+    <head><p>
+               <title>Pabbas Menu</title>
+        <nav style="background-color:black"><img src="https://www.idealicecream.com/wp-content/uploads/2023/02/parlour-client-pabbas-logo.png"
+             width="150" height="100" alt="Pabbas Logo">
+                <a href="" style="margin:30px;
+                font-size:24px;
+                color:white; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Menu </a>
+                <a href=""style="margin:30px;
+                font-size:24px;
+                color:white; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Location</a>
+                <a href=""style="margin:30px;
+                font-size:24px;
+                color:white; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Review</a>
+                <a href=""style="margin:30px;
+                font-size:24px;
+                color:white; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">About us</a></li>
+            
+        </nav>
+    </head>
+    <body><center>
+        <iframe width="1000" height="605" src="https://www.youtube.com/embed/nnfq_LNHX2M?si=_AuPts6oHYDITnhT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+        </iframe>
+</center>
+<center>
+    <h1 style="color:darkorange"> Pabba's Menu</h1>
+    <h2 style="color:orange">Our Specialities</h2>
+</center>
+<table>
+    <tr>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDDN0-ipqLxmvq9J-OQNwgWwBanDQyz9hyVg&s"width="500" height="500"> </td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Chocolate_Fantasy_-_Pabbas%2C_Mangalore_-_Karnataka_-_PXL0198.jpg"width="500" height="500" > </td>
+        <td><img src="https://media-cdn.tripadvisor.com/media/photo-p/07/7d/fd/eb/pabba-s-ice-cream-parlour.jpg"width="500" height="500"> </td>
+    </tr>
+     <tr>
+        <td><img src="https://aroundmangalore.com/wp-content/uploads/2014/02/Dilkush-Ice-Cream-Pabbas-Ideal-Ice-Cream-Mangalore.jpg"width="500" height="500"> </td>
+        <td><img src="https://i.redd.it/84hwgy6rsevc1.jpeg"width="500" height="500" > </td>
+         <td><img src="https://aroundmangalore.com/wp-content/uploads/2014/02/Parfait-Ice-Cream-Pabbas-Ideals-Mangalore.jpg"width="500" height="500"> </td>
+    </tr>
+     <tr>
+        <td><img src="https://media-cdn.tripadvisor.com/media/photo-p/10/22/a1/51/pabba-s-ice-cream-parlour.jpg"width="500" height="500"> </td>
+        <td><img src="https://aroundmangalore.com/wp-content/uploads/2017/07/Duet-Pabbas-Ice-Cream-Ideal-Ice-Cream-Mangalore.jpg"width="500" height="500" > </td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Tiramisu_ice_cream%2C_Pabbas%2C_Mangalore%2C_Karnataka%2C_001.jpg"width="500" height="500"> </td>
+    </tr>
+</table>
+    <footer
+    style="text-align:center;color:white;font-family:Arial, Helvetica, sans-serif;padding:20px;background-color:black;margin-top:20px;">
+    <p>2025 pabba-s-ice-cream-parlour.All rights reserved.</p>
+    <p>Follow us on social media!</p>
+    <p>
+        <a
+        href="https://facebook.com"
+        target="_blank">Facebook</a>
+        <a
+        href="https://Instagram.com"
+        target="_blank">Instagram</a>
+        <a
+        href="https://YouTube.com"
+        target="_blank">Youtube</a>
+         </p>
+        <img src="https://imagesvs.oneindia.com/img/2024/07/icecream-1721903446.jpg"
+        width="300" height="200">
+    </footer>
+    </body>
+</html>
